@@ -2,8 +2,8 @@ body {
   margin: 0;
   display: flex;
   justify-content: center;
-  align-items: center;/*it align things horizontally*/
-  min-height: 100vh;/*it align things vertically*/
+  align-items: center;
+  min-height: 100vh;
   text-align: center;
 }
 
